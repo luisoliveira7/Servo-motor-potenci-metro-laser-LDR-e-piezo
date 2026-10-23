@@ -2,7 +2,7 @@
 
 **Curso:** Análise e Desenvolvimento de Sistemas
 **Unidade curricular:** Desenv. Sis. Embarcados
-**Aluno(s):** Luis Felipe 
+**Aluno:** Luis Felipe 
 
 ## Explicação do projeto
 
