@@ -1,8 +1,8 @@
 # Servo motor, potenciômetro, laser, LDR e piezo
 
-**Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
-**Unidade curricular:** Sistemas Embarcados
-**Aluno(s):** Luis Felipe [coloque seu sobrenome e os outros nomes aqui]
+**Curso:** Análise e Desenvolvimento de Sistemas
+**Unidade curricular:** Desenv. Sis. Embarcados
+**Aluno(s):** Luis Felipe 
 
 ## Explicação do projeto
 
